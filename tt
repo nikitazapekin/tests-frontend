@@ -1,0 +1,3 @@
+npm init
+npm i -D jest
+npm run test
